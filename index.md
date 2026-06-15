@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Connect Cards' Privacy Policy
+title: Privacy Policy
 ---
 
 # Privacy Policy for Connect Cards Game
@@ -99,10 +99,4 @@ We may update this Privacy Policy from time to time. Changes will be reflected w
 
 ## 12. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us:
-
-**Duc Quan Do**  
-
-🌐 Website: [https://dodquan.com](https://www.dodquan.com)
-
-📧 Email: [contact@dodquan.com](mailto:contact@dodquan.com)
+If you have any questions or concerns about this Privacy Policy, please contact us at: [contact@dodquan.com](mailto:contact@dodquan.com)

@@ -16,12 +16,23 @@
 
     <!-- Main CSS -->
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon-16x16.png' | relative_url }}">
+    <link rel="manifest" href="{{ '/assets/site.webmanifest' | relative_url }}">
 </head>
 
-<body>
-    <main class="main-content">
+<body class="main-content">
+    <main>
         {{ content }}
     </main>
+
+    <footer>
+        <p>© {{ site.time | date: "%Y" }} Duc Quan Do</p>
+        <p>🌐 <a href="https://www.dodquan.com">https://dodquan.com</a></p>
+    </footer>
 </body>
 
 </html>
