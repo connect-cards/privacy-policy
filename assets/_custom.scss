@@ -1,0 +1,59 @@
+/* ===== Variables ===== */
+$font-body: 'EB Garamond', serif;
+$text-color: #272626;
+$bg-color: #FFFDF7;
+$hyperlink-color: #2E68D4;
+
+/* ===== Base ===== */
+body {
+    font-family: $font-body;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.6;
+    color: $text-color;
+    background-color: $bg-color;
+    margin: 0;
+    padding: 100 20;
+}
+
+/* ===== Title ===== */
+h1,
+.site-title {
+    font-weight: 500;
+    font-size: 34px;
+}
+
+/* ===== Heading 1 ===== */
+h2 {
+    font-weight: 500;
+    font-size: 26px;
+}
+
+/* ===== Heading 2 ===== */
+h3 {
+    font-weight: 500;
+    font-size: 22px;
+}
+
+/* ===== Text ===== */
+p {
+    margin-bottom: 1em;
+}
+
+/* ===== Links ===== */
+a {
+    color: $hyperlink-color;
+    text-decoration: underline;
+
+    &:hover {
+        opacity: 0.7;
+    }
+}
+
+/* ===== Layout ===== */
+.main-content {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    box-sizing: border-box;
+}
