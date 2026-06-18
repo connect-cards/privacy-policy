@@ -5,98 +5,119 @@ title: Privacy Policy
 
 # Privacy Policy for Connect Cards Game
 
-**Last updated:** June 14, 2026
+**Last updated:** June 18, 2026
 
 ## 1. Introduction
 
 Welcome to **Connect Cards Game** ("the App"), developed by **Duc Quan Do** ("we", "our", or "us").
 
-Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use the App.
 
 ## 2. Information We Collect
 
 ### 2.1 Personal Information
 
-We do not actively collect personal data from users.
+We do **not collect, store, or have access to personal information** such as:
 
-However, if you choose to sign in using **Sign in with Apple**, we may store the following information provided by Apple solely for authentication purposes:
+- Name
+- Email address
+- User-created account information
+- Game progress or gameplay data
 
-- Name (if shared)
-- Email address (or Apple private relay email)
+The App does not provide its own account registration or account management system.
 
-This information is used only to create and maintain your account within the App.
+The App may integrate with **Apple Game Center** to provide gameplay features such as achievements, leaderboards, multiplayer functionality, or player identity features (if available). Game Center is operated by Apple and may process information according to Apple’s own policies. We do not receive or maintain Game Center account credentials.
 
-### 2.2 Non-Personal Information
+The App also uses **CloudKit Private Database** to store app-related data. Data stored through CloudKit Private Database is:
 
-We do not automatically collect non-personal data such as:
+- Stored within your personal iCloud account
+- Managed by Apple
+- Accessible only by you through your iCloud account and your devices
+- Not accessible to us
 
+Because this data is stored privately in your iCloud account, we do not receive, control, view, or manage its contents.
+
+### 2.2 Information You Voluntarily Provide
+
+If you contact us for support (for example by email), you may voluntarily provide information such as:
+
+- Your email address
 - Device information
-- Usage data
-- Analytics data
-- Advertising identifiers
+- Diagnostic details
+- Information related to your inquiry
 
-However, if you choose to contact us (e.g., via email for bug reports or support), you may voluntarily provide information such as device details or app usage context.
+We use this information only to respond to your request.
 
-## 3. How We Use Information
+## 3. How Information Is Used
 
-We use the limited information we collect for the following purposes:
+Since we do not collect user accounts or personal data directly, we do not use personal information for:
 
-- To enable authentication via Apple Sign-In
-- To maintain your account within the App
-- To respond to your inquiries or support requests
-- To improve the App based on voluntary feedback
+- Analytics
+- Advertising
+- Marketing
+- Profiling
 
-We do **not** use your data for advertising or marketing purposes.
+Apple services such as Game Center and CloudKit may be used solely to enable gameplay functionality and cloud synchronization.
+
+Any information voluntarily provided through support communications is used only to assist with your request.
 
 ## 4. Third-Party Services
 
 The App uses the following third-party service:
 
-- **Apple Sign In** — for authentication
+- **Apple CloudKit (Private Database)**: for storing user data within the user’s personal iCloud storage
+- **Apple Game Center**: for gameplay-related features such as player identity, achievements, leaderboards, or multiplayer features (where applicable)
 
-We do not integrate with analytics providers, advertising networks, or other third-party tracking services.
+These services are provided and managed by Apple and may process information according to Apple’s own policies.
+
+We do not collect analytics data, advertising identifiers, or user activity data, and we do not integrate third-party analytics or crash reporting services.
 
 ## 5. Data Sharing
 
-We do **not** sell, trade, or share your personal information with third parties.
+We do **not sell, share, rent, or disclose personal information** to third parties.
 
 Your data is only used internally for the purposes described above.
 
 ## 6. Data Retention
 
-We retain your account information (name and email, if provided) for as long as your account exists or as necessary to operate the App.
+We do **not retain user accounts or personal data**.
 
-If you stop using the App, your data may remain stored unless you request its deletion.
+Any app data stored through CloudKit Private Database remains under your control and is managed through your iCloud account according to Apple’s policies.
+
+Support communications (if any) may be retained only as reasonably necessary to respond to inquiries and maintain support history.
 
 ## 7. Your Rights
 
-You have the right to:
+Because we do not collect or maintain user accounts or personal data, there is generally no user data held by us to access, correct, export, or delete.
 
-- Request access to the personal data we hold about you
-- Request correction or deletion of your data
+If you wish to manage or remove data stored through CloudKit Private Database or manage Game Center information, you may do so through your Apple account and iCloud/Game Center settings, subject to Apple’s available controls.
 
-To exercise these rights, please contact us at: [contact@dodquan.com](mailto:contact@dodquan.com)
+For privacy-related questions, contact us at: [contact@dodquan.com](mailto:contact@dodquan.com)
 
 ## 8. Children’s Privacy
 
-The App is not specifically directed toward children under the age of 13.
+The App is **not specifically directed toward children under the age of 13**.
 
-However, we do not knowingly collect personal information from children. Since account creation requires Apple Sign-In, any data collected is limited and controlled by Apple.
+We do **not knowingly collect personal information from children**.
 
-If you believe that a child has provided personal information, please contact us and we will take appropriate steps to remove such data.
+If you believe that a child has provided personal information to us through support communications, please contact us and we will take appropriate steps to address the request.
 
 ## 9. Data Security
 
-We take reasonable measures to protect your information. However, no method of electronic storage or transmission is 100% secure, and we cannot guarantee absolute security.
+We design the App to minimize data collection.
+
+Data stored through CloudKit Private Database is managed through Apple’s infrastructure and protected according to Apple’s security practices. However, no method of electronic storage or transmission can be guaranteed to be completely secure.
 
 ## 10. International Use
 
-The App is available worldwide. By using the App, you understand that your information may be processed in countries outside your own.
+The App is available worldwide.
+
+Because app data stored through CloudKit Private Database is managed by Apple, storage and processing may occur in accordance with Apple’s infrastructure and policies.
 
 ## 11. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Changes will be reflected with an updated "Last updated" date.
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the “Last updated” date at the top of this Privacy Policy.
 
 ## 12. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: [contact@dodquan.com](mailto:contact@dodquan.com)
+If you have questions about this Privacy Policy, please contact: [contact@dodquan.com](mailto:contact@dodquan.com)
